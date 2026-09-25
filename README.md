@@ -1,4 +1,4 @@
-# Cool Telecom LineView — releases
+# Cool Telecom LineView IM — releases
 
 Windows installers for Cool Telecom LineView, signed by Telephoria, LLC.
 
